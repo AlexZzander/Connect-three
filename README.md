@@ -1,1 +1,1 @@
-# Connect-three
+# Connect three game AI agent
